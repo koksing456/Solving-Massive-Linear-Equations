@@ -28,4 +28,5 @@ Figure 5. Perform back substitution to find value x,y, and z
 # Performance Evaluation Techniques 
 ## Speed Up
 Speed up refers to the ratio of the time required to execute a program using a specific algorithm on a device with a single processor (i.e. T (1), n = 1) to the time required to execute the same program using a specific algorithm on a machine with multiple processors which is T(n). Speed up can produce a relative gain in shifting from a sequential algorithm to a parallel algorithm. The formula of the speed up is proposed as S(n) = T(1)/T(n). Figure below shows the relationship between the speed up and number of processors. As we can see from the figure above, the speed up is directly proportional to the number of processors therefore a linear dotted line is depicted. However,  when the overhead occurs, the line becomes sub linear. 
+
 ![image](https://user-images.githubusercontent.com/70791269/136904164-1d472947-91ef-49d5-916b-def1e8c33e47.png)
