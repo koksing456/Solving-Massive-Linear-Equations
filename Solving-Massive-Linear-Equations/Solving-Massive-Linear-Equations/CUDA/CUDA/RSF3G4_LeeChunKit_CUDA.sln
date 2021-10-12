@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RSF3G4_LeeChunKit_CUDA", "RSF3G4_LeeChunKit_CUDA.vcxproj", "{861046E7-8F47-41A8-A659-625BF206A85C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{861046E7-8F47-41A8-A659-625BF206A85C}.Debug|x64.ActiveCfg = Debug|x64
+		{861046E7-8F47-41A8-A659-625BF206A85C}.Debug|x64.Build.0 = Debug|x64
+		{861046E7-8F47-41A8-A659-625BF206A85C}.Release|x64.ActiveCfg = Release|x64
+		{861046E7-8F47-41A8-A659-625BF206A85C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D519E09-0A8A-42A4-91E9-B4E0499A5BEB}
+	EndGlobalSection
+EndGlobal

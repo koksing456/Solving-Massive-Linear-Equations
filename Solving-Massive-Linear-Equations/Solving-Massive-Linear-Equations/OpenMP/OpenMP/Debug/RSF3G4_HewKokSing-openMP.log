@@ -1,0 +1,6 @@
+﻿  parallel.cpp
+C:\Users\koksi\source\repos\RSF3G4_HewKokSing-openMP\parallel.cpp(82,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\koksi\source\repos\RSF3G4_HewKokSing-openMP\parallel.cpp(87,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  serial.cpp
+  Generating Code...
+  RSF3G4_HewKokSing-openMP.vcxproj -> C:\Users\koksi\source\repos\RSF3G4_HewKokSing-openMP\Debug\RSF3G4_HewKokSing-openMP.exe
